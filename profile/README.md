@@ -1,5 +1,6 @@
-## Flagconquest
-FlagConquest is a web application designed to help users practice Capture The Flag (CTF) challenges, a popular format for cybersecurity competitions. It provides a platform where users can enhance their skills in solving various types of CTF tasks, such as cryptography, network, forensics, and more
+## 🏴‍☠️ FlagConquest
+
+FlagConquest is a web application designed to help users practice Capture The Flag (CTF) challenges, a popular format in cybersecurity competitions. The platform allows users to improve their skills in solving various types of CTF challenges, such as cryptography, networking, forensics, and general security tasks.
 
 <aside>
 👋 Questions Category:
