@@ -4,8 +4,8 @@ FlagConquest is a web application designed to help users practice Capture The Fl
 <aside>
 👋 Questions Category:
 
-🛠 General Skills – Basic security and problem-solving tasks
-🔐 Cryptography – Encryption, hashing, and decryption techniques
-🌐 Network – Network security, packet analysis, and traffic inspection
-🕵️ Forensics – File analysis, memory forensics, and digital investigations
+- 🛠 General Skills – Basic security and problem-solving tasks
+- 🔐 Cryptography – Encryption, hashing, and decryption techniques
+- 🌐 Network – Network security, packet analysis, and traffic inspection
+- 🕵️ Forensics – File analysis, memory forensics, and digital investigations
 </aside>
